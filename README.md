@@ -21,10 +21,10 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screenshots/Screenshot_L.png)
-![](./screenshots/Screenshot_M.png)
-![](./screenshots/Screenshot_MS.png)
-![](./screenshots/Screenshot_s.png)
+![](./screenshots/Screenshot_L.png =x250)
+![](./screenshots/Screenshot_M.png =x250)
+![](./screenshots/Screenshot_MS.png =x250)
+![](./screenshots/Screenshot_S.png=x250)
 
 ## My process
 
