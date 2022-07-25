@@ -21,10 +21,10 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screenshots/Screenshot_L.png.jpg)
-![](./screenshots/Screenshot_M.png.jpg)
-![](./screenshots/Screenshot_MS.png.jpg)
-![](./screenshots/Screenshot_s.png.jpg)
+![](./screenshots/Screenshot_L.png)
+![](./screenshots/Screenshot_M.png)
+![](./screenshots/Screenshot_MS.png)
+![](./screenshots/Screenshot_s.png)
 
 ## My process
 
